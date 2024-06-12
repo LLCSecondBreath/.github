@@ -8,6 +8,7 @@
 - [Зевс](https://github.com/search?q=topic%3Azeus+org%3ALLCSecondBreath&type=Repositories)
 - [Окси](https://github.com/search?q=topic%3Aoxy+org%3ALLCSecondBreath&type=Repositories)
 - [ОксиЧек](https://github.com/search?q=topic%3Aoxycheck+org%3ALLCSecondBreath&type=Repositories)
+- [Олимп](https://github.com/search?q=topic%3Aolymp+org%3ALLCSecondBreath&type=Repositories)
 - [Пульсар](https://github.com/search?q=topic%3Apulsar+org%3ALLCSecondBreath&type=Repositories)
 - [Регистратор](https://github.com/search?q=topic%3Aregistrator+org%3ALLCSecondBreath&type=Repositories)
 - [Тренажер](https://github.com/search?q=topic%3Acoach+org%3ALLCSecondBreath+fork%3Atrue&type=repositories)
