@@ -15,6 +15,7 @@
 - [Регистратор](https://github.com/search?q=topic%3Aregistrator+org%3ALLCSecondBreath&type=Repositories)
 - [Тренажер](https://github.com/search?q=topic%3Acoach+org%3ALLCSecondBreath+fork%3Atrue&type=repositories)
 - [ЭйрТест](https://github.com/search?q=topic%3Aairtest+org%3ALLCSecondBreath&type=Repositories)
+- [Элегаз](https://github.com/search?q=topic%3Aelegas+org%3ALLCSecondBreath&type=Repositories)
 
 Дополнительно:
 - [Все платы](https://github.com/search?q=topic%3Aboards+org%3ALLCSecondBreath&type=Repositories)
