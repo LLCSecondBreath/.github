@@ -20,6 +20,6 @@
 Дополнительно:
 - [Все платы](https://github.com/search?q=topic%3Aboards+org%3ALLCSecondBreath&type=Repositories)
 - [Все модули](https://github.com/search?q=topic%3Amodule+org%3ALLCSecondBreath&type=Repositories)
-- [Все прошивки](https://github.com/search?q=topic%3Amodule+org%3ALLCSecondBreath&type=Repositories)
+- [Все прошивки](https://github.com/search?q=topic%3Afirmware+org%3ALLCSecondBreath&type=Repositories)
 - [Все приложения](https://github.com/search?q=topic%3Aapp+org%3ALLCSecondBreath&type=Repositories)
 - [Все андроид приложения](https://github.com/search?q=topic%3Aandroid+org%3ALLCSecondBreath&type=Repositories)
