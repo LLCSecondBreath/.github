@@ -24,3 +24,4 @@
 - [Все прошивки](https://github.com/search?q=topic%3Afirmware+org%3ALLCSecondBreath&type=Repositories)
 - [Все приложения](https://github.com/search?q=topic%3Aapp+org%3ALLCSecondBreath&type=Repositories)
 - [Все андроид приложения](https://github.com/search?q=topic%3Aandroid+org%3ALLCSecondBreath&type=Repositories)
+- [Все серверные приложения](https://github.com/search?q=topic%3Aserver+org%3ALLCSecondBreath&type=Repositories)
