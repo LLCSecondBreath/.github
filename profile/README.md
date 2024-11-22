@@ -6,6 +6,7 @@
 - [Барид](https://github.com/search?q=topic%3Abarid+org%3ALLCSecondBreath&type=Repositories)
 - [БЛС](https://github.com/search?q=topic%3Abls+org%3ALLCSecondBreath&type=Repositories)
 - [Борей](https://github.com/search?q=topic%3Aborey+org%3ALLCSecondBreath&type=Repositories)
+- [Динамики](https://github.com/search?q=topic%3Adynamic+org%3ALLCSecondBreath&type=Repositories)
 - [Зевс](https://github.com/search?q=topic%3Azeus+org%3ALLCSecondBreath&type=Repositories)
 - [Окси 4](https://github.com/search?q=topic%3Aoxy4+org%3ALLCSecondBreath&type=Repositories)
 - [Окси 6](https://github.com/search?q=topic%3Aoxy6+org%3ALLCSecondBreath&type=Repositories)
