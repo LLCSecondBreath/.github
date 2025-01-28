@@ -4,7 +4,7 @@
 
 Проекты:
 - [Барид](https://github.com/search?q=topic%3Abarid+org%3ALLCSecondBreath&type=Repositories)
-- [БЛС](https://github.com/search?q=topic%3Abls+org%3ALLCSecondBreath&type=Repositories)
+- [Смарттестер](https://github.com/search?q=topic%3Abls+org%3ALLCSecondBreath&type=Repositories)
 - [Борей](https://github.com/search?q=topic%3Aborey+org%3ALLCSecondBreath&type=Repositories)
 - [Динамики](https://github.com/search?q=topic%3Adynamic+org%3ALLCSecondBreath&type=Repositories)
 - [Зевс](https://github.com/search?q=topic%3Azeus+org%3ALLCSecondBreath&type=Repositories)
